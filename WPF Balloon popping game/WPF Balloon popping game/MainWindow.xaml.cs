@@ -18,10 +18,7 @@ using System.Windows.Threading;
 
 namespace WPF_Balloon_popping_game
 {
-    /// <summary>
-    /// Interaction logic for MainWindow.xaml
-    /// </summary>
-    public partial class MainWindow : Window
+        public partial class MainWindow : Window
     {
         DispatcherTimer gameTimer = new DispatcherTimer();
 
